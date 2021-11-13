@@ -30,15 +30,12 @@ image:
 
 authors:
 - admin
-- 吳恩達
 
 tags:
 - Academic
-- 开源
 
 categories:
 - Demo
-- 教程
 ---
 
 ## Overview
@@ -68,7 +65,7 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://wowc
 
 ## Ecosystem
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
 
 ## Inspiration
 
