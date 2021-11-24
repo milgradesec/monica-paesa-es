@@ -156,3 +156,8 @@ cms:
 icon:
   pack:
     ai: true
+
+security:
+  permissions:
+    policy: |
+      accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()
