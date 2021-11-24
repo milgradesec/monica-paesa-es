@@ -18,14 +18,20 @@ organizations:
 
 # Interests to show in About widget
 interests:
+- Biotecnología
+- Medicina
 - Microbiología
 - Inmunología
-- Bioinformática
-- Bioquímica
 
 # Education to show in About widget
 education:
   courses:
+  - course: Doctorado en Ingeniería Química y Tecnologías del Medio Ambiente
+    institution: Universidad de Zaragoza
+    year: 2021 - 2025
+  - course: Máster en Profesorado de Educación Secundaria Obligatoria, Bachillerato y Formación Profesional
+    institution: Universidad de Zaragoza
+    year: 2020
   - course: Máster en Biotecnología Médica y Medicina Molecular
     institution: Universidad de Bari “Aldo Moro”
     year: 2018
@@ -71,4 +77,5 @@ email: ""
 highlight_name: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Soy una estudiante de PhD en Ingeniería Química y Tecnologías del Medio Ambiente en la Universidad de Zaragoza y actualmente
+investigo la búsqueda de sistemas de nanopartículas para el tratamiento de la artrosis.
