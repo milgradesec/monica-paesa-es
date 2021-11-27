@@ -37,6 +37,7 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
+Falta añadir algo de contenido :)
+<!-- {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+{{% /callout %}} -->
