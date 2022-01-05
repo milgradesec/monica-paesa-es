@@ -159,7 +159,7 @@ icon:
 
 security:
   csp:
-    policy: "default-src 'self'; script-src 'self' 'unsafe-inline' cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' fonts.googleapis.com cdn.jsdelivr.net; img-src 'self' data:; font-src 'self' fonts.googleapis.com fonts.gstatic.com cdn.jsdelivr.net; upgrade-insecure-requests"
+    policy: "default-src 'self'; script-src 'self' 'unsafe-inline' cdn.jsdelivr.net static.cloudflareinsights.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com cdn.jsdelivr.net; img-src 'self' data:; font-src 'self' fonts.googleapis.com fonts.gstatic.com cdn.jsdelivr.net; connect-src cloudflareinsights.com; upgrade-insecure-requests; report-uri https://paesa.report-uri.com/r/d/csp/enforce"
     report_only: false
   permissions:
     policy: |
