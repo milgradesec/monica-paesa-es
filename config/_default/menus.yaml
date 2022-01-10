@@ -1,0 +1,6 @@
+# Navigation Links
+
+main:
+  - name: Inicio
+    url: "#about"
+    weight: 10
