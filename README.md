@@ -1,11 +1,20 @@
 # monica-paesa-es
 
-## Hugo Docs
+Web estilo CV creada con [Hugo](https://gohugo.io/) y [Cloudflare Pages](https://pages.cloudflare.com).
 
-- <https://gohugo.io/documentation/>
+## 🔍 Preview
 
-## WowChemy Docs
+```shell
+hugo server --disableFastRender --i18n-warnings
+```
 
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+## ⚙️ Build site
+
+```shell
+hugo --gc --minify
+```
+
+## 📙 Docs
+
+- [Hugo Docs](https://gohugo.io/documentation/)
+- [WowChemy Docs](https://wowchemy.com/docs/)
