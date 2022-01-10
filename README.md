@@ -1,6 +1,8 @@
 # monica-paesa-es
 
-Web estilo CV creada con [Hugo](https://gohugo.io/) y [Cloudflare Pages](https://pages.cloudflare.com).
+Web estilo CV simple, rápida y segura creada con [Hugo](https://gohugo.io/) y [Cloudflare Pages](https://pages.cloudflare.com).
+
+👉 [monica.paesa.es](https://monica.paesa.es/)
 
 ## 🔍 Preview
 
