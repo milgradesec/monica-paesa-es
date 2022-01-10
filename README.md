@@ -18,3 +18,7 @@ hugo --gc --minify
 
 - [Hugo Docs](https://gohugo.io/documentation/)
 - [WowChemy Docs](https://wowchemy.com/docs/)
+
+## 📜 License
+
+MIT License
