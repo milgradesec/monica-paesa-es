@@ -1,11 +1,10 @@
 # Configuration of Hugo
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Mónica # Website name
-baseurl: "https://monica.paesa.es/" # Website URL
-copyright: "" # Footer text, e.g. '© {year} Me'
+title: Mónica
+baseurl: "https://monica.paesa.es/"
+copyright: "© 2022 Paesa Cloud"
 
 ############################
 ## LANGUAGE
