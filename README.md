@@ -1,5 +1,9 @@
 # monica-paesa-es
 
+## Hugo Docs
+
+- <https://gohugo.io/documentation/>
+
 ## WowChemy Docs
 
 - 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
