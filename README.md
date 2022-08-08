@@ -7,13 +7,13 @@ Web estilo CV simple, rápida y segura creada con [Hugo](https://gohugo.io/) y [
 ## 🔍 Preview
 
 ```shell
-hugo server --disableFastRender --i18n-warnings
+make preview
 ```
 
 ## ⚙️ Build site
 
 ```shell
-hugo --gc --minify
+make build
 ```
 
 ## 📙 Docs
