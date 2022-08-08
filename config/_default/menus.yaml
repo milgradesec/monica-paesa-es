@@ -4,3 +4,6 @@ main:
   - name: Inicio
     url: "#about"
     weight: 10
+  - name: Contacto
+    url: "#contact"
+    weight: 20
