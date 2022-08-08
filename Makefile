@@ -3,7 +3,7 @@ all: preview
 
 .PHONY: preview
 preview:
-	hugo server --disableFastRender --i18n-warnings
+	hugo server --disableFastRender --printI18nWarnings
 
 .PHONY: build
 build:	
