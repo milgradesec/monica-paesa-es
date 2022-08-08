@@ -1,6 +1,9 @@
 # IDEs
 .idea/
 
+# VS Code
+.vscode/
+
 # Hugo
 /resources/
 public/
