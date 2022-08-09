@@ -30,7 +30,7 @@ main_menu:
 
 footer:
   copyright:
-    notice: '© {year} Daniel Paesa.'
+    notice: "© {year} Daniel Paesa."
     license:
       enable: true
       allow_derivatives: false
@@ -105,7 +105,7 @@ comments:
   commento:
     url: ""
 search:
-  provider: ''
+  provider: ""
   algolia:
     app_id: ""
     api_key: ""
@@ -116,9 +116,13 @@ map:
   api_key: ""
   zoom: 15
 marketing:
+  verification:
+    google: "mhrF8Go-ZUa7x6BjRgeAhQJ_zpR_qndh5CzQ7UUAdkY"
+    baidu: ""
+    bing: ""
   google_analytics: ""
   google_tag_manager: ""
-  google_site_verification: "mhrF8Go-ZUa7x6BjRgeAhQJ_zpR_qndh5CzQ7UUAdkY"
+  google_site_verification: ""
   baidu_site_verification: ""
   baidu_tongji: ""
 cms:
