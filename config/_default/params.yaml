@@ -105,7 +105,7 @@ comments:
   commento:
     url: ""
 search:
-  provider: wowchemy
+  provider: ''
   algolia:
     app_id: ""
     api_key: ""
@@ -118,7 +118,7 @@ map:
 marketing:
   google_analytics: ""
   google_tag_manager: ""
-  google_site_verification: ""
+  google_site_verification: "mhrF8Go-ZUa7x6BjRgeAhQJ_zpR_qndh5CzQ7UUAdkY"
   baidu_site_verification: ""
   baidu_tongji: ""
 cms:
