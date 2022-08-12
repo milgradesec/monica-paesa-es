@@ -16,6 +16,10 @@ make preview
 make build
 ```
 
+## 🚀 Deploy
+
+`git commit` and `git push`, CI/CD will do the rest.
+
 ## 📙 Docs
 
 - [Hugo Docs](https://gohugo.io/documentation/)
